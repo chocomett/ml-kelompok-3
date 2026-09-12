@@ -12,10 +12,10 @@ Dataset yang digunakan berkaitan dengan **Credit Card Fraud Detection**, yaitu k
 
 | No | Nama           | NRP            | Tugas                                                  |
 | -- | -------------- | -------------- | ------------------------------------------------------ |
-| 1  | Reuben         | (isi NRP)      | Mencari dataset di Kaggle                              |
+| 1  | Reuben         | 5803025045     | Mencari dataset di Kaggle                              |
 | 2  | Fino           | 5803025003     | Data preprocessing dan Exploratory Data Analysis (EDA) |
 | 3  | Evelyn Adi     | 5803025026     | Data preprocessing dan Exploratory Data Analysis (EDA) |
-| 4  | Mett           | (isi NRP)      | Training dan evaluasi Machine Learning model           |
+| 4  | Mett           | 5803025047     | Training dan evaluasi Machine Learning model           |
 | 5  | Rinaldo        | (isi NRP)      | Membuat aplikasi menggunakan Streamlit                 |
 | 6  | Alex           | (isi NRP)      | Membuat aplikasi menggunakan Streamlit                 |
 
