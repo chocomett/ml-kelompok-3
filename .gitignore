@@ -1,9 +1,8 @@
-# Large datasets
-creditcard_csv.csv
-creditcard_csv.zip
-train_smote.csv
-train_original.csv
-test.csv
-
 # Virtual Environment
 .venv/
+
+# Raw dataset
+data/raw/*.csv
+
+# Processed datasets
+data/processed/*.csv
