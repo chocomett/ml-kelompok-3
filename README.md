@@ -16,7 +16,7 @@ Dataset yang digunakan berkaitan dengan **Credit Card Fraud Detection**, yaitu k
 | 2  | Fino           | 5803025003     | Data preprocessing dan Exploratory Data Analysis (EDA) |
 | 3  | Evelyn Adi     | 5803025026     | Data preprocessing dan Exploratory Data Analysis (EDA) |
 | 4  | Mett           | 5803025047     | Training dan evaluasi Machine Learning model           |
-| 5  | Rinaldo        | (isi NRP)      | Membuat aplikasi menggunakan Streamlit                 |
+| 5  | Rinaldo        | 5803025024      | Membuat aplikasi menggunakan Streamlit                 |
 | 6  | Alex           | (isi NRP)      | Membuat aplikasi menggunakan Streamlit                 |
 
 > **Catatan:** Ganti data pada tabel di atas dengan nama, NRP, dan pembagian tugas anggota kelompok yang sebenarnya.
