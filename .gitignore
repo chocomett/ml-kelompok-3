@@ -1,0 +1,9 @@
+# Large datasets
+creditcard_csv.csv
+creditcard_csv.zip
+train_smote.csv
+train_original.csv
+test.csv
+
+# Virtual Environment
+.venv/
