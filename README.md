@@ -42,11 +42,14 @@ Dataset tersebut digunakan sebagai data utama untuk proses:
 
 ## Teknologi yang Digunakan
 
-* Python
-* Pandas
-* Scikit-learn
-* Joblib
-* Streamlit
+* pandas
+* matplotlib
+* seaborn
+* scikit-learn
+* imbalanced-learn
+* pathlib
+* streamlit
+* joblib
 
 ---
 
@@ -55,11 +58,11 @@ Dataset tersebut digunakan sebagai data utama untuk proses:
 Pastikan semua library yang diperlukan sudah diinstall.
 
 ```bash
-pip install streamlit pandas scikit-learn joblib
+pip install -r requirements.txt
 ```
 
 Kemudian jalankan aplikasi Streamlit:
 
 ```bash
-streamlit run app.py
+streamlit run app/app.py
 ```
