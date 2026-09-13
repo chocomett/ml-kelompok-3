@@ -4,3 +4,5 @@ seaborn
 scikit-learn
 imbalanced-learn
 pathlib
+streamlit
+joblib
